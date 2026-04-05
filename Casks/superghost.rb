@@ -2,7 +2,7 @@ cask "superghost" do
   version "0.63.1"
   sha256 "b616c3ea0fab182bc0fa0d71438e5c4644601db38a38010e8b7da3ad88d6b01f"
 
-  url "https://github.com/manaflow-ai/cmux/releases/download/v#{version}/superghost-macos.dmg"
+  url "https://github.com/matt-ramotar/superghost/releases/download/v#{version}/superghost-macos.dmg"
   name "Superghost"
   desc "Lightweight native macOS terminal with vertical tabs for AI coding agents"
   homepage "https://superghost.bionic.sh"
