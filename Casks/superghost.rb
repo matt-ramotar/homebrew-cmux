@@ -1,6 +1,6 @@
 cask "superghost" do
-  version "0.63.1"
-  sha256 "b616c3ea0fab182bc0fa0d71438e5c4644601db38a38010e8b7da3ad88d6b01f"
+  version "0.64.0"
+  sha256 "fdee1faa123e0d3d6aa887f8484c2611f8ea14b03d843f5ee76c8b108cbcf41d"
 
   url "https://github.com/matt-ramotar/superghost/releases/download/v#{version}/superghost-macos.dmg"
   name "Superghost"
